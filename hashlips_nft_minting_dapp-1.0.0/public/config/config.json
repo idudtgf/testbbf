@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2224Aa0DE97C59A9F830c69dB7ff636C4052CD5D",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x2224Aa0DE97C59A9F830c69dB7ff636C4052CD5D",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "BBF",
+  "SYMBOL": "BBF",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bbf",
+  "SHOW_BACKGROUND": true
+}
